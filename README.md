@@ -9,3 +9,4 @@ Yêu cầu:
 - Truy xuất thông tin các loại vật phẩm (Loại, công dụng, số lượng, mô tả)
 - Sắp xếp các vật phẩm theo loại
 - Hiện gợi ý sử dụng vật phẩm
+- Tạo trigger set giới hạn số lượng vật phẩm có thể mang theo
