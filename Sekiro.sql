@@ -56,16 +56,16 @@ exec  sp_rename 'item_khang_hieu_ung.[Tên]', N'Tên', 'column';
 exec sp_rename 'item_khang_hieu_ung.Description', N'Công dụng', 'column';
 
 --Sắp xếp các vật phẩm theo loại
-SELECT N'Nhẫn cụ' AS [Loại], [Tên]
+SELECT [Tên], N'Nhẫn cụ' AS [Loại]
 FROM prosthetic_tools
 UNION ALL
-SELECT N'Hồi máu' AS [Loại], [Tên]
+SELECT [Tên], N'Hồi máu' AS [Loại]
 FROM item_hoi_mau
 UNION ALL
-SELECT N'Kháng hiệu ứng' AS [Loại], [Tên]
+SELECT [Tên], N'Kháng hiệu ứng' AS [Loại]
 FROM item_khang_hieu_ung
 UNION ALL
-SELECT N'Tăng sức mạnh' AS [Loại], [Tên]
+SELECT [Tên], N'Tăng sức mạnh' AS [Loại]
 FROM item_tang_sm
 ORDER BY [Loại];
 
