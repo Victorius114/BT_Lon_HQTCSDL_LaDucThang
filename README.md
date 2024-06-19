@@ -64,8 +64,11 @@ Tương tự với các vật phẩm khác
 Tạo procedure
 
 ![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/c72b2200-4de2-46fd-904a-b5dc5a615208)
+
 ![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/e4d2f6d0-8f2c-4c1c-951d-2e192464ef1c)
+
 ![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/c357d29f-5751-4a41-8a8c-94efdfece04e)
+
 ![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/85d46a4c-4b47-4cc6-8617-4d908325957b)
 
 Đầu vào: Số tiền, Giá tiền
