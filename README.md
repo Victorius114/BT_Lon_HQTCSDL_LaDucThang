@@ -70,8 +70,11 @@ Mua hàng thành công
 Nếu mua quá giới hạn sẽ kích hoạt trigger đã tạo từ trước
 
 Tương tự ta có thể tạo procedure cho mỗi lần sử dụng một nhẫn cụ
-![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/9738a4fe-1930-4c5e-8926-c47cfef633c4)
-![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/274e030b-b42c-41a6-9ea4-542ec044be8d)
+![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/7279c0f8-199b-4fb2-a95d-0c989d424df7)
+
+Sekiro sử dụng nhẫn cụ ống phun lửa
+![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/7901d056-1846-4f69-aec0-c44e2fc35cea)
+
 
 
 Sử dụng thành công
