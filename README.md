@@ -31,7 +31,8 @@ Các dữ liệu sẽ bao gồm tên, công dụng, số lượng và giá tiề
 
   Vì tất cả các vật phẩm đều có một cột chung là [Tên] nên chúng ta có thể chọn tên từ các bảng và sắp xếp chúng theo bảng mà chúng thuộc về
   
-  ![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/b64bb8e7-7e67-4fc8-8637-9744e9bd23e1)
+  ![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/fd8e888f-31a8-4679-8f5d-f6de34fc8e97)
+
   
   Đầu vào: Tên, Loại
   Đầu ra: Các vật phẩm được sắp xếp theo loại
