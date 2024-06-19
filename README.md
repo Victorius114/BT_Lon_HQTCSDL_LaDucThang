@@ -70,14 +70,20 @@ Mua hàng thành công
 Nếu mua quá giới hạn sẽ kích hoạt trigger đã tạo từ trước
 
 Tương tự ta có thể tạo procedure cho mỗi lần sử dụng một nhẫn cụ
+![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/9738a4fe-1930-4c5e-8926-c47cfef633c4)
+![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/274e030b-b42c-41a6-9ea4-542ec044be8d)
 
-![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/d0c1cf77-2b57-4be3-b4e3-335b0cc06b45)
-![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/7ec8b8d6-236c-4627-ab58-aafd68da18f5)
 
 Sử dụng thành công
-![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/9738a4fe-1930-4c5e-8926-c47cfef633c4)
+![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/a9ec07bc-a333-4501-8b30-eb365f06cc41)
+
 
 Đã trừ số hình nhân
+![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/4fe2c23f-fef8-4137-8a73-43e62d69fa11)
+
+Không còn hình nhân để sử dụng
+![image](https://github.com/Victorius114/BT_Lon_HQTCSDL_LaDucThang/assets/167947119/2856d1d3-1f8a-4593-b96b-96072f1795e2)
+
 
 
 
